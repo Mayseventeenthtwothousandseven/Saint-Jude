@@ -1,0 +1,54 @@
+body{
+    padding:15px;
+    background-color:red;
+    color:white;
+}
+
+#logo-btn {
+    width: 100%;
+    max-width: 150px;
+    min-width: 100px;
+    border-radius: 50%;
+   
+}
+
+.btn{
+    color:black;
+    background-color:red;
+    border:none;
+    text-decoration:none;
+    border:5px solid black;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+.btn-group{
+    padding-bottom:18px;
+}
+.card-img-top{
+    width:150px;
+    height:150px;
+}
+.card-block{
+    background-color:red;
+    color:white;
+    padding:5px;
+}
+.btn{
+    text-decoration:none;
+}
+img{
+    border:5px solid black;
+}
+p{
+    border:5px solid black;
+    padding:5px;
+}
+h5{
+    border:5px solid black;
+    padding:5px;
+}
+.btn:hover{
+    background-color:black;
+}
